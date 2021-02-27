@@ -4,4 +4,7 @@
 3. Combine backed obserable for API calls
 4. Async image downloader
 5. Image caching for network image loader
-6. User defaults, SPM, enjoy :3
+6. User defaults
+7. SPM 
+
+**enjoy :3**
