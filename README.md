@@ -1,1 +1,1 @@
-# My-Little-Stocks
+# My-Little-Stocks is about: SwiftUI view components, Generic network manager, Combine backed obserable for API calls, Async image downloader, Image caching for network image loader, User defaults, SPM, enjoy :3
